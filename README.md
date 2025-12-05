@@ -13,7 +13,7 @@
 
 **For Developers**: Access comprehensive prediction market data through APIs
 
-- **[Bitquery Polymarket API](https://docs.bitquery.io/docs/examples/polymarket-api/)** - Complete GraphQL API for querying Polymarket data, including market information, trading activity, prices, oracle resolution, and smart contract events on Polygon blockchain. Perfect for building prediction market dashboards, analytics tools, and trading applications.
+- **[Bitquery Polymarket API](https://docs.bitquery.io/docs/examples/polymarket-api/?utm_source=github&utm_campaign=awesome-prediction-markets&utm_medium=referral)** - Complete GraphQL API for querying Polymarket data, including market information, trading activity, prices, oracle resolution, and smart contract events on Polygon blockchain. Perfect for building prediction market dashboards, analytics tools, and trading applications.
 
 ---
 
