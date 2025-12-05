@@ -21,7 +21,7 @@
 
 **Awesome Prediction Markets** is a comprehensive, curated directory of prediction market platforms, forecasting tools, betting markets, and decentralized prediction market protocols. This repository serves as the definitive resource for discovering prediction markets across blockchain networks including Polygon, Base, Solana, Ethereum, and more.
 
-Whether you're looking for **decentralized prediction markets**, **sports betting platforms**, **crypto prediction markets**, **forecasting tools**, **trading terminals**, or **analytics platforms**, this list covers the entire prediction market ecosystem.
+Whether you're looking for decentralized prediction markets, sports betting platforms, crypto prediction markets, forecasting tools, trading terminals, or analytics platforms, this list covers the entire prediction market ecosystem including Polymarket trading terminals, prediction trading terminals, Polymarket analytics tools, Polymarket alert bots, portfolio trackers, signals providers, copy trading tools, and Polymarket alternatives.
 
 ### What are Prediction Markets?
 
@@ -30,11 +30,12 @@ Prediction markets are platforms where users can trade shares in the outcome of 
 ### Key Features
 
 - 🏆 **Major Platforms**: High-volume prediction markets like Polymarket, Kalshi, and Opinion
-- 🤖 **Trading Bots**: Telegram bots and automation tools for prediction market trading
-- 💻 **Trading Terminals**: Advanced interfaces for trading on prediction markets
-- 📊 **Analytics Tools**: Data analysis and insights platforms
-- ⚽ **Sports Markets**: Specialized sports betting and prediction platforms
-- 🔧 **Infrastructure**: Protocols and infrastructure for building prediction markets
+- 🤖 **Trading Bots**: Telegram bots, Polymarket alert bots, and automation tools for prediction market trading
+- 💻 **Trading Terminals**: Polymarket trading terminals and prediction trading terminals with advanced interfaces
+- 📊 **Analytics Tools**: Polymarket analytics tools, portfolio trackers, and data analysis platforms
+- ⚽ **Sports Markets**: Sport prediction tools and specialized sports betting platforms
+- 🔧 **Infrastructure**: Protocols, Polymarket data API providers, and infrastructure for building prediction markets
+- 📈 **Trading Tools**: Polymarket signals providers and tools to copy trade Polymarket traders to maximize earnings
 
 ---
 
@@ -46,12 +47,12 @@ Prediction markets are platforms where users can trade shares in the outcome of 
     - [What are Prediction Markets?](#what-are-prediction-markets)
     - [Key Features](#key-features)
   - [📑 Table of Contents](#-table-of-contents)
-  - [🏆 Major Platforms](#-major-platforms)
-  - [🌱 Emerging Platforms](#-emerging-platforms)
-  - [🤖 Bots \& Automation](#-bots--automation)
-  - [💻 Trading Terminals](#-trading-terminals)
-  - [📊 Analytics \& Data Tools](#-analytics--data-tools)
-  - [⚽ Sports Prediction Markets](#-sports-prediction-markets)
+  - [🏆 Major Prediction Market Platforms](#-major-prediction-market-platforms)
+  - [🌱 Emerging Prediction Market Platforms](#-emerging-prediction-market-platforms)
+  - [🤖 Polymarket Telegram Trading Bots \& Alert Bots](#-polymarket-telegram-trading-bots--alert-bots)
+  - [💻 Polymarket Trading Terminals \& Prediction Trading Terminals](#-polymarket-trading-terminals--prediction-trading-terminals)
+  - [📊 Polymarket Analytics Tools \& Data Analysis](#-polymarket-analytics-tools--data-analysis)
+  - [⚽ Sport Prediction Tools \& Sports Markets](#-sport-prediction-tools--sports-markets)
   - [🤖 AI Agents](#-ai-agents)
   - [🔧 Infrastructure \& Protocols](#-infrastructure--protocols)
   - [🔬 Research \& Analysis](#-research--analysis)
@@ -68,7 +69,7 @@ Prediction markets are platforms where users can trade shares in the outcome of 
 
 ---
 
-## 🏆 Major Platforms
+## 🏆 Major Prediction Market Platforms
 
 High-volume prediction market platforms with significant trading activity. These are the leading decentralized prediction markets and forecasting platforms in the ecosystem, including blockchain-based prediction markets on Polygon, Base, and other networks.
 
@@ -87,7 +88,7 @@ High-volume prediction market platforms with significant trading activity. These
 
 ---
 
-## 🌱 Emerging Platforms
+## 🌱 Emerging Prediction Market Platforms
 
 Growing prediction market platforms with active development. These emerging forecasting platforms and new prediction markets are building innovative features and expanding the ecosystem.
 
@@ -102,9 +103,9 @@ Growing prediction market platforms with active development. These emerging fore
 
 ---
 
-## 🤖 Bots & Automation
+## 🤖 Polymarket Telegram Trading Bots & Alert Bots
 
-Telegram bots and automated tools for prediction market trading. These bots help traders monitor markets, receive alerts, execute trades, and automate their prediction market strategies.
+Polymarket alert bots, Telegram bots, and automated tools for prediction market trading. This section includes Polymarket signals providers that deliver trading signals and market insights, tools to copy trade Polymarket traders for following successful strategies, and alert bots that help traders monitor markets, receive real-time alerts, execute trades, and automate their prediction market strategies.
 
 | Bot | Platform | Type | Status | Link |
 |-----|----------|------|--------|------|
@@ -118,9 +119,9 @@ Telegram bots and automated tools for prediction market trading. These bots help
 
 ---
 
-## 💻 Trading Terminals
+## 💻 Polymarket Trading Terminals & Prediction Trading Terminals
 
-Advanced trading interfaces and platforms for prediction markets. These trading terminals provide enhanced interfaces for trading on decentralized prediction markets, with features like advanced order types, portfolio management, and multi-chain support.
+Polymarket trading terminals and prediction trading terminals with advanced interfaces for prediction markets. These platforms provide enhanced trading interfaces for decentralized prediction markets, with features like advanced order types, portfolio management, multi-chain support, and real-time market data. Whether you're looking for Polymarket trading terminals specifically or broader prediction trading terminals, this section covers the best platforms for professional trading.
 
 | Platform | Chain | Type | Status | Website |
 |----------|-------|------|--------|---------|
@@ -152,9 +153,9 @@ Advanced trading interfaces and platforms for prediction markets. These trading 
 
 ---
 
-## 📊 Analytics & Data Tools
+## 📊 Polymarket Analytics Tools & Data Analysis
 
-Tools for analyzing prediction market data, trends, and insights. These analytics platforms provide market data, trading statistics, probability analysis, and insights to help traders make informed decisions on prediction markets.
+Polymarket analytics tools and data analysis platforms for tracking prediction market trends and insights. This section includes Polymarket portfolio trackers for monitoring your positions, alert bots for real-time notifications, and comprehensive analytics platforms that provide market data, trading statistics, probability analysis, and insights to help traders make informed decisions. Discover the best Polymarket analytics tools to optimize your trading strategy and track performance across multiple markets.
 
 | Tool | Chain | Type | Status | Website |
 |------|-------|------|--------|---------|
@@ -183,9 +184,9 @@ Tools for analyzing prediction market data, trends, and insights. These analytic
 
 ---
 
-## ⚽ Sports Prediction Markets
+## ⚽ Sport Prediction Tools & Sports Markets
 
-Specialized platforms focused on sports betting and predictions. These sports prediction markets allow users to bet on sports events, esports, and other athletic competitions using blockchain technology and decentralized protocols.
+Sport prediction tools and specialized platforms focused on sports betting and predictions. These sports prediction markets and sport prediction tools allow users to bet on sports events, esports, and other athletic competitions using blockchain technology and decentralized protocols.
 
 | Platform | Chain | Mechanism | Outcome Types | Status | Website |
 |----------|-------|-----------|---------------|--------|---------|
@@ -270,12 +271,13 @@ Platforms currently in development or waitlist.
 
 ### Directories & Aggregators
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
-- [**Verso**](https://www.verso.trading/) - Multi-chain prediction market aggregator for decentralized prediction markets
 
 ### Documentation & Guides
 - **Prediction Market Mechanisms**: Learn about CLOB (Central Limit Order Book), AMM (Automated Market Maker), and other trading mechanisms used in prediction markets
-- **Trading Strategies**: Guides on how to trade prediction markets, manage risk, and develop profitable strategies
-- **API Documentation**: Developer resources and APIs for building prediction market applications
+- **How to Earn More from Polymarket**: Comprehensive guides on maximizing profits, using Polymarket analytics tools, following Polymarket signals providers, and leveraging tools to copy trade Polymarket traders
+- **Trading Strategies**: Guides on how to trade prediction markets, manage risk, and develop profitable strategies using Polymarket trading terminals and prediction trading terminals
+- **Polymarket Data API Providers**: Developer resources and APIs for building prediction market applications, including Polymarket data API providers for accessing real-time market data
+- **Polymarket Alternatives**: Explore alternative prediction market platforms beyond Polymarket, including Polymarket alternatives that offer different features and mechanisms
 - **Blockchain Integration**: Guides on using prediction markets on Polygon, Base, Solana, Ethereum, and other blockchain networks
 
 ### Community
@@ -316,15 +318,18 @@ Made with ❤️ for the prediction markets community
 
 ## 🔍 Keywords & Topics
 
-This repository covers: **prediction markets**, **forecasting platforms**, **decentralized prediction markets**, **betting markets**, **probability markets**, **information markets**, **prediction market platforms**, **blockchain prediction markets**, **crypto prediction markets**, **sports prediction markets**, **political prediction markets**, **prediction market trading**, **prediction market analytics**, **prediction market bots**, **prediction market tools**, **CLOB prediction markets**, **AMM prediction markets**, **Polygon prediction markets**, **Base prediction markets**, **Solana prediction markets**, **Ethereum prediction markets**, **Polymarket**, **Kalshi**, **prediction market aggregators**, **prediction market terminals**, **prediction market APIs**, and more.
+This repository covers: **prediction markets**, **forecasting platforms**, **decentralized prediction markets**, **betting markets**, **probability markets**, **information markets**, **prediction market platforms**, **blockchain prediction markets**, **crypto prediction markets**, **sports prediction markets**, **political prediction markets**, **prediction market trading**, **prediction market analytics**, **prediction market bots**, **prediction market tools**, **CLOB prediction markets**, **AMM prediction markets**, **Polygon prediction markets**, **Base prediction markets**, **Solana prediction markets**, **Ethereum prediction markets**, **Polymarket**, **Kalshi**, **prediction market aggregators**, **prediction market terminals**, **prediction market APIs**, **Polymarket analytics tools**, **Polymarket alert bots**, **Polymarket portfolio trackers**, **Polymarket signals providers**, **Polymarket trading terminals**, **prediction trading terminals**, **tools to copy trade Polymarket traders**, **Polymarket data API providers**, **Polymarket alternatives**, **sport prediction tools**, **how to earn more from Polymarket**, and more.
 
 ---
 
 ## 📈 Popular Use Cases
 
-- **Political Forecasting**: Trade on election outcomes, policy decisions, and political events
-- **Sports Betting**: Predict sports outcomes, game results, and tournament winners
-- **Cryptocurrency Markets**: Forecast crypto prices, token launches, and DeFi events
-- **Financial Markets**: Predict stock movements, economic indicators, and market trends
+- **Political Forecasting**: Trade on election outcomes, policy decisions, and political events using Polymarket trading terminals and prediction trading terminals
+- **Sports Betting**: Predict sports outcomes, game results, and tournament winners with sport prediction tools and specialized platforms
+- **Cryptocurrency Markets**: Forecast crypto prices, token launches, and DeFi events using Polymarket analytics tools and alert bots
+- **Financial Markets**: Predict stock movements, economic indicators, and market trends with Polymarket portfolio trackers and analytics platforms
 - **Technology Predictions**: Forecast product launches, tech developments, and industry trends
 - **Entertainment & Culture**: Predict award winners, entertainment events, and cultural trends
+- **Maximizing Earnings**: Learn how to earn more from Polymarket by using Polymarket signals providers, tools to copy trade Polymarket traders, and Polymarket analytics tools to identify profitable opportunities
+- **Market Analysis**: Use Polymarket data API providers and analytics tools for comprehensive market research and data-driven trading decisions
+- **Exploring Alternatives**: Discover Polymarket alternatives that offer different features, mechanisms, and trading opportunities across various blockchain networks
