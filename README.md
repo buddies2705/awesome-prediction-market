@@ -78,10 +78,10 @@ High-volume prediction market platforms with significant trading activity. These
 | **Kalshi** | Off-chain | CLOB | Binary, Categorical | 🟢 Live | [kalshi.com](https://kalshi.com) |
 | **Opinion** | BNB Smart Chain | CLOB | Binary, Categorical | 🟢 Live | [app.opinion.trade](https://app.opinion.trade?code=iJ7MaD) |
 | **Limitless** | Base | CLOB | Binary, Categorical | 🟢 Live | [limitless.exchange](https://limitless.exchange/?r=T8W3GLZEVP) |
-| **Myriad Market** | BNB Smart Chain, Abstract | AMM | Binary, Categorical | 🟢 Live | [myriad.markets](https://myriad.markets/markets) |
 | **Overtime** | Base, Arbitrum, Optimism | Sportsbook | Binary, Categorical, Scalar | 🟢 Live | [overtimemarkets.xyz](https://www.overtimemarkets.xyz/markets?referrerId=free) |
-| **Footballfun** | Base | AMM | Scalar | 🟢 Live | [football.fun](https://football.fun) |
 | **DGbet** | Optimism, Arbitrum | CLOB, Sportsbook | Sportsbook | 🟢 Live | [dgbet.fun](https://sportsbook.dgbet.fun?invite=oVPIO1) |
+| **Myriad Market** | BNB Smart Chain, Abstract | AMM | Binary, Categorical | 🟢 Live | [myriad.markets](https://myriad.markets/markets) |
+| **Footballfun** | Base | AMM | Scalar | 🟢 Live | [football.fun](https://football.fun) |
 | **XO Market** | XO Chain | AMM | Binary, Categorical | 🟢 Live | [xo.market](https://xo.market/) |
 | **Fliq** | Aptos | CLOB | Binary | 🟢 Live | [fliq.io](https://fliq.io) |
 
@@ -95,8 +95,8 @@ Growing prediction market platforms with active development. These emerging fore
 |----------|-------|-----------|---------------|--------|---------|
 | **BRKT** | Base | AMM | Binary, Categorical | 🟢 Live | [brkt.gg](https://www.brkt.gg/) - Referral: `2C82E13RM7Q` |
 | **Hilomarket** | Ethereum | AMM | Binary | 🟢 Live | [hilomarket.com](https://hilomarket.com/?afc=8e1d562d-52bc-47ba-bda5-f9fe083dd502) |
-| **Trendle** | TBD | AMM | Binary, Scalar | 🟡 Waitlist | [trendle.fi](https://trendle.fi/) |
 | **Alkimiya** | Base | AMM, Bonding Curve | Binary | 🟢 Live | [alkimiya.com](https://alkimiya.com) |
+| **Trendle** | TBD | AMM | Binary, Scalar | 🟡 Waitlist | [trendle.fi](https://trendle.fi/) |
 | **Actions** | Solana | N/A | Binary | 🔴 Inactive | [actions.fun](https://actions.fun/) |
 | **Agent Ted** | Solana | Sportsbook | Sportsbook | 🟡 Waitlist | [tedtech.ai](https://tedtech.ai/) |
 
@@ -109,13 +109,12 @@ Telegram bots and automated tools for prediction market trading. These bots help
 | Bot | Platform | Type | Status | Link |
 |-----|----------|------|--------|------|
 | **OK Dot Bet Bot** | Telegram | Bot | 🟢 Live | [@okdotbet_bot](https://t.me/okdotbet_bot?start=ref_BPP3DQ) |
-| **Polymarket Insider Bot** | Telegram | Bot | 🟢 Live | [@polymarketinsiderbot](https://t.me/polymarketinsiderbot) |
 | **Trade Poly Bot** | Telegram | Bot | 🟢 Live | [@TradePolyBot](https://t.me/TradePolyBot?start=ref_gn836rp) |
-| **Polyx Gold Bot** | Telegram | Bot | 🟢 Live | [@Polyx_gold_bot](https://t.me/Polyx_gold_bot) |
 | **Predictify Bot** | Telegram | Bot | 🟢 Live | [@Predictify_bot](https://t.me/Predictify_bot?start=gaurav_zen) |
 | **Polycule Trade Bot** | Web | Bot | 🟢 Live | [polycule.trade](https://polycule.trade/join/b90eg6) |
+| **Polymarket Insider Bot** | Telegram | Bot | 🟢 Live | [@polymarketinsiderbot](https://t.me/polymarketinsiderbot) |
+| **Polyx Gold Bot** | Telegram | Bot | 🟢 Live | [@Polyx_gold_bot](https://t.me/Polyx_gold_bot) |
 | **Polyscalping** | Web | Bot, Alerts | 🟢 Live | [polyscalping.org](https://polyscalping.org) |
-| **Olympus** | Polygon | Bot | 🟡 Waitlist | [olympus.bot](https://olympus.bot) |
 
 ---
 
@@ -125,21 +124,20 @@ Advanced trading interfaces and platforms for prediction markets. These trading 
 
 | Platform | Chain | Type | Status | Website |
 |----------|-------|------|--------|---------|
+| **Matchr** | - | Trading Terminal | 🟢 Live | [matchr.xyz](https://matchr.xyz/?invite=FREE) |
+| **Bullpen** | - | Trading Terminal | 🟢 Live | [bullpen.fi](https://bullpen.fi/@agile-yak) |
 | **Stand** | Polygon, Base | Trading Terminal | 🟢 Live | [stand.trade](https://stand.trade) |
 | **Betmoar** | Polygon | Trading Terminal | 🟢 Live | [betmoar.fun](https://betmoar.fun) |
-| **Cobot** | BNB Smart Chain | Trading Terminal | 🟢 Live | [cobot.market](https://cobot.market) |
-| **JexTrade** | Polygon | Trading Terminal | 🟢 Live | [jextrade.io](https://jextrade.io) |
-| **Verso** | Multichains | Trading Terminal, Aggregator | 🟢 Live | [verso.market](https://verso.market) |
-| **Wandly** | N/A | Trading Terminal, Data Analysis | 🟢 Live | [wandly.ai](https://wandly.ai) |
-| **Polymind** | BNB Smart Chain | AI Agent, Trading Terminal | 🟢 Live | [polymind.ai](https://polymind.ai) |
-| **Matchr** | - | Trading Terminal | 🟢 Live | [matchr.xyz](https://matchr.xyz) |
+| **Cobot** | BNB Smart Chain | Trading Terminal | 🟢 Live | [cobot.gg](https://cobot.gg/) |
+| **JexTrade** | Polygon | Trading Terminal | 🟢 Live | [jextrade.com](https://jextrade.com/) |
+| **Verso** | Multichains | Trading Terminal, Aggregator | 🟢 Live | [verso.trading](https://www.verso.trading/) |
+| **Wandly** | N/A | Trading Terminal, Data Analysis | 🟢 Live | [wandly.xyz](https://wandly.xyz/) |
 | **The Trade Fox** | - | Trading Terminal | 🟢 Live | [thetradefox.com](https://thetradefox.com) |
-| **Bullpen** | - | Trading Terminal | 🟢 Live | [bullpen.fi](https://bullpen.fi) |
 | **Aura Money** | - | Trading Terminal | 🟢 Live | [aura.money](https://aura.money) |
 | **Polym** | - | Trading Terminal | 🟢 Live | [polym.trade](https://polym.trade) |
 | **Polyish** | - | Trading Terminal | 🟢 Live | [polyish.trade](https://polyish.trade) |
 | **Converge** | - | Trading Terminal | 🟢 Live | [converge.market](https://converge.market) |
-| **Vampire Trade** | Polygon | Trading Terminal | 🟢 Live | [vampire.trade](https://vampire.trade) |
+| **Vampire Trade** | Polygon | Trading Terminal | 🟢 Live | [vampiretrade.com](https://www.vampiretrade.com/yield) |
 | **Polybro** | - | Trading Terminal | 🟢 Live | [polybro.app](https://polybro.app) |
 | **Rainmaker** | - | Trading Terminal | 🟢 Live | [rainmaker.fun](https://rainmaker.fun) |
 | **Fireplace** | - | Trading Terminal | 🟢 Live | [fireplace.gg](https://fireplace.gg) |
@@ -174,19 +172,12 @@ Tools for analyzing prediction market data, trends, and insights. These analytic
 | **Polynoob** | Polygon | Data Analysis | 🟢 Live | [polynoob.com](https://polynoob.com) |
 | **Polymarket Analytics** | - | Data Analysis | 🟢 Live | [polymarketanalytics.com](https://polymarketanalytics.com) |
 | **Polymarket Trade** | Off-chain | Data Analysis | 🟢 Live | [polymarkettrade.com](https://polymarkettrade.com) |
-| **Polymarket Eco** | Off-chain | Data Analysis | 🟢 Live | [polymarketeco.com](https://polymarketeco.com) |
-| **Polyinsider** | Off-chain | Data Analysis | 🟢 Live | [polyinsider.com](https://polyinsider.com) |
-| **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.com](https://forcazt.com) |
-| **Fission** | Solana | Data Analysis | 🟢 Live | [fission.market](https://fission.market) |
-| **Metaculus** | Off-chain | Data Analysis | 🟢 Live | [metaculus.com](https://metaculus.com) |
-| **pdata** | Off-chain | Data Analysis | 🟢 Live | [pdata.io](https://pdata.io) |
-| **Arbbets** | Off-chain | Data Analysis | 🟢 Live | [arbbets.com](https://arbbets.com) |
-| **Adjacent News** | Off-chain | Data Analysis | 🟢 Live | [adjacent.news](https://adjacent.news) |
-| **Aion1500** | Base | AI Agent, Data Analysis | 🟢 Live | [aion1500.com](https://aion1500.com) |
+| **Polyinsider** | Off-chain | Data Analysis | 🟢 Live | [polyinsider.io](https://polyinsider.io/) |
+| **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.xyz](https://forcazt.xyz/) |
 | **Kalshinomics** | Off-chain | Data Analysis | 🟡 Waitlist | [kalshinomics.com](https://kalshinomics.com) |
 | **Mention Metrix** | Off-chain | Data Analysis | 🟡 Waitlist | [mentionmetrix.com](https://mentionmetrix.com) |
 | **Likely.so** | Off-chain | Data Analysis | 🟡 Waitlist | [likely.so](https://likely.so) |
-| **Predictify** | Polygon, Solana | Bot, Data Analysis | 🟢 Live | [predictify.io](https://predictify.io) |
+| **Predictify** | Polygon, Solana | Bot, Data Analysis | 🟢 Live | [predictify.0xo.in](https://predictify.0xo.in/) |
 | **Robin Markets** | - | Data Analysis | 🟢 Live | [robin.markets](https://robin.markets) |
 | **Predictshark** | - | Data Analysis | 🟢 Live | [predictshark.io](https://predictshark.io) |
 
@@ -199,8 +190,8 @@ Specialized platforms focused on sports betting and predictions. These sports pr
 | Platform | Chain | Mechanism | Outcome Types | Status | Website |
 |----------|-------|-----------|---------------|--------|---------|
 | **Overtime** | Base, Arbitrum, Optimism | Sportsbook | Binary, Categorical, Scalar | 🟢 Live | [overtimemarkets.xyz](https://www.overtimemarkets.xyz/markets?referrerId=free) |
-| **Footballfun** | Base | AMM | Scalar | 🟢 Live | [football.fun](https://football.fun) |
 | **DGbet** | Optimism, Arbitrum | CLOB, Sportsbook | Sportsbook | 🟢 Live | [dgbet.fun](https://sportsbook.dgbet.fun?invite=oVPIO1) |
+| **Footballfun** | Base | AMM | Scalar | 🟢 Live | [football.fun](https://football.fun) |
 | **Agent Ted** | Solana | Sportsbook | Sportsbook | 🟡 Waitlist | [tedtech.ai](https://tedtech.ai/) |
 | **Betly** | - | Sports Prediction | 🟢 Live | [betly.trade](https://betly.trade) |
 | **Bracky** | - | Sports Prediction | 🟢 Live | [bracky.app](https://bracky.app) |
@@ -216,9 +207,7 @@ AI-powered prediction market tools and agents. These artificial intelligence pla
 
 | Platform | Chain | Type | Status | Website |
 |----------|-------|------|--------|---------|
-| **Polymind** | BNB Smart Chain | AI Agent, Trading Terminal | 🟢 Live | [polymind.ai](https://polymind.ai) |
-| **Aion1500** | Base | AI Agent, Data Analysis | 🟢 Live | [aion1500.com](https://aion1500.com) |
-| **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.com](https://forcazt.com) |
+| **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.xyz](https://forcazt.xyz/) |
 | **Wavefi** | BNB Smart Chain | AI Agent | 🟢 Live | [wavefi.ai](https://wavefi.ai) |
 | **Veloriai** | TBD | AI Agent | 🔴 Inactive | [veloriai.com](https://veloriai.com) |
 | **Astron** | TBD | AI Agent | 🟡 Waitlist | [astron.ai](https://astron.ai) |
@@ -247,7 +236,6 @@ Research tools and platforms for prediction market analysis. These platforms pro
 |----------|-------|------|--------|---------|
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
 | **Poly Alert Hub** | Polygon | Research | 🟢 Live | [polyalerthub.com](https://polyalerthub.com) |
-| **Metaculus** | Off-chain | Data Analysis | 🟢 Live | [metaculus.com](https://metaculus.com) |
 
 ---
 
@@ -257,9 +245,9 @@ Social platforms and community-focused prediction markets. These platforms combi
 
 | Platform | Chain | Mechanism | Outcome Types | Status | Website |
 |----------|-------|-----------|---------------|--------|---------|
+| **Hilomarket** | Ethereum | AMM | Binary | 🟢 Live | [hilomarket.com](https://hilomarket.com/?afc=8e1d562d-52bc-47ba-bda5-f9fe083dd502) |
 | **Firefly** | Multichains | Data Analysis, Social | 🟢 Live | [firefly.market](https://firefly.market) |
 | **Tweem** | Off-chain | Prediction Game | 🟢 Live | [tweem.io](https://tweem.io) |
-| **Hilomarket** | Ethereum | AMM | Binary | 🟢 Live | [hilomarket.com](https://hilomarket.com/?afc=8e1d562d-52bc-47ba-bda5-f9fe083dd502) |
 | **Trendle** | TBD | AMM | Binary, Scalar | 🟡 Waitlist | [trendle.fi](https://trendle.fi/) |
 
 ---
@@ -282,7 +270,7 @@ Platforms currently in development or waitlist.
 
 ### Directories & Aggregators
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
-- [**Verso**](https://verso.market) - Multi-chain prediction market aggregator for decentralized prediction markets
+- [**Verso**](https://www.verso.trading/) - Multi-chain prediction market aggregator for decentralized prediction markets
 
 ### Documentation & Guides
 - **Prediction Market Mechanisms**: Learn about CLOB (Central Limit Order Book), AMM (Automated Market Maker), and other trading mechanisms used in prediction markets
