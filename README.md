@@ -9,6 +9,14 @@
 
 </div>
 
+## 🔌 Prediction Market APIs
+
+**For Developers**: Access comprehensive prediction market data through APIs
+
+- **[Bitquery Polymarket API](https://docs.bitquery.io/docs/examples/polymarket-api/)** - Complete GraphQL API for querying Polymarket data, including market information, trading activity, prices, oracle resolution, and smart contract events on Polygon blockchain. Perfect for building prediction market dashboards, analytics tools, and trading applications.
+
+---
+
 ## 📖 About
 
 **Awesome Prediction Markets** is a comprehensive, curated directory of prediction market platforms, forecasting tools, betting markets, and decentralized prediction market protocols. This repository serves as the definitive resource for discovering prediction markets across blockchain networks including Polygon, Base, Solana, Ethereum, and more.
@@ -33,6 +41,7 @@ Prediction markets are platforms where users can trade shares in the outcome of 
 ## 📑 Table of Contents
 
 - [Best Prediction Market Tools - Awesome Prediction Markets](#best-prediction-market-tools---awesome-prediction-markets)
+  - [🔌 Prediction Market APIs](#-prediction-market-apis)
   - [📖 About](#-about)
     - [What are Prediction Markets?](#what-are-prediction-markets)
     - [Key Features](#key-features)
