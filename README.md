@@ -7,8 +7,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-*Data sourced from [Prediction Index](https://predictionindex.xyz/)*
-
 </div>
 
 ## 📖 About
@@ -311,7 +309,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**Note**: This list is maintained based on data from [Prediction Index](https://predictionindex.xyz/). Status and information may change. Please verify details on individual project websites.
+**Note**: Status and information may change. Please verify details on individual project websites.
 
 Made with ❤️ for the prediction markets community
 
