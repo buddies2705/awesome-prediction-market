@@ -49,11 +49,12 @@ Prediction markets are platforms where users can trade shares in the outcome of 
   - [📑 Table of Contents](#-table-of-contents)
   - [🏆 Major Prediction Market Platforms](#-major-prediction-market-platforms)
   - [🌱 Emerging Prediction Market Platforms](#-emerging-prediction-market-platforms)
-  - [🤖 Polymarket Telegram Trading Bots \& Alert Bots](#-polymarket-telegram-trading-bots--alert-bots)
+  - [🤖 Polymarket Alert Bots \& Automation](#-polymarket-alert-bots--automation)
   - [💻 Polymarket Trading Terminals \& Prediction Trading Terminals](#-polymarket-trading-terminals--prediction-trading-terminals)
   - [📊 Polymarket Analytics Tools \& Data Analysis](#-polymarket-analytics-tools--data-analysis)
   - [⚽ Sport Prediction Tools \& Sports Markets](#-sport-prediction-tools--sports-markets)
   - [🤖 AI Agents](#-ai-agents)
+  - [🤖 Prediction Market AI Assistants](#-prediction-market-ai-assistants)
   - [🔧 Infrastructure \& Protocols](#-infrastructure--protocols)
   - [🔬 Research \& Analysis](#-research--analysis)
   - [👥 Social \& Community](#-social--community)
@@ -103,7 +104,7 @@ Growing prediction market platforms with active development. These emerging fore
 
 ---
 
-## 🤖 Polymarket Telegram Trading Bots & Alert Bots
+## 🤖 Polymarket Alert Bots & Automation
 
 Polymarket alert bots, Telegram bots, and automated tools for prediction market trading. This section includes Polymarket signals providers that deliver trading signals and market insights, tools to copy trade Polymarket traders for following successful strategies, and alert bots that help traders monitor markets, receive real-time alerts, execute trades, and automate their prediction market strategies.
 
@@ -170,7 +171,8 @@ Polymarket analytics tools and data analysis platforms for tracking prediction m
 | **Polylayer** | Polygon | Data Analysis | 🟢 Live | [polylayer.xyz](https://polylayer.xyz) |
 | **Poly Archive** | Off-chain | Data Analysis | 🟢 Live | [polyarchive.com](https://polyarchive.com) |
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
-| **Polynoob** | Polygon | Data Analysis | 🟢 Live | [polynoob.com](https://polynoob.com) |
+| **Polynoob** | Polygon | Data Analysis | 🟢 Live | [polynoob.com](https://polynoob.com/) |
+| **Polyswipe** | - | Data Analysis | 🟢 Live | [polyswipe.io](https://www.polyswipe.io/) |
 | **Polymarket Analytics** | - | Data Analysis | 🟢 Live | [polymarketanalytics.com](https://polymarketanalytics.com) |
 | **Polymarket Trade** | Off-chain | Data Analysis | 🟢 Live | [polymarkettrade.com](https://polymarkettrade.com) |
 | **Polyinsider** | Off-chain | Data Analysis | 🟢 Live | [polyinsider.io](https://polyinsider.io/) |
@@ -197,7 +199,6 @@ Sport prediction tools and specialized platforms focused on sports betting and p
 | **Betly** | - | Sports Prediction | 🟢 Live | [betly.trade](https://betly.trade) |
 | **Bracky** | - | Sports Prediction | 🟢 Live | [bracky.app](https://bracky.app) |
 | **SX Bet** | - | Sports Prediction | 🟢 Live | [sx.bet](https://sx.bet) |
-| **Sportstensor** | Subtensor | Prediction Game | 🟢 Live | [sportstensor.com](https://sportstensor.com) |
 | **Virtual One** | Off-chain | Oracle Providers, SIM | 🟢 Live | [virtualone.io](https://virtualone.io) |
 
 ---
@@ -211,7 +212,19 @@ AI-powered prediction market tools and agents. These artificial intelligence pla
 | **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.xyz](https://forcazt.xyz/) |
 | **Wavefi** | BNB Smart Chain | AI Agent | 🟢 Live | [wavefi.ai](https://wavefi.ai) |
 | **Veloriai** | TBD | AI Agent | 🔴 Inactive | [veloriai.com](https://veloriai.com) |
-| **Astron** | TBD | AI Agent | 🟡 Waitlist | [astron.ai](https://astron.ai) |
+
+---
+
+## 🤖 Prediction Market AI Assistants
+
+AI-powered assistants specifically designed for prediction market research, analysis, and trading. These assistants help filter noise, provide market insights, and assist with research and decision-making.
+
+| Platform | Chain | Type | Status | Website |
+|----------|-------|------|--------|---------|
+| **Munar AI** | - | AI Assistant | 🟢 Live | [munar.ai](https://munar.ai/) |
+| **Poly Agent** | - | AI Assistant | 🟢 Live | [trypolyagent.com](https://trypolyagent.com) |
+| **Polytale AI** | - | AI Assistant | 🟢 Live | [polytaleai.com](https://polytaleai.com) |
+| **Raven AI** | - | AI Assistant, Meta-analysis | 🟢 Live | [ravenai.io](https://ravenai.io) |
 
 ---
 
@@ -264,6 +277,8 @@ Platforms currently in development or waitlist.
 | **Predict Fun** | Trading Terminal | 🟡 Upcoming | [predict.fun](https://predict.fun) |
 | **Bravado Trade** | Trading Terminal | 🟡 Upcoming | [bravadotrade.com](https://bravadotrade.com) |
 | **Rainmaker** | Trading Terminal | 🟡 Upcoming | [rainmaker.fun](https://rainmaker.fun) |
+| **Sportstensor** | Subtensor | Prediction Game | 🟡 Upcoming | [sportstensor.com](https://www.sportstensor.com/) |
+| **Astron** | TBD | AI Agent | 🟡 Upcoming | [astron.markets](https://www.astron.markets/) |
 
 ---
 
