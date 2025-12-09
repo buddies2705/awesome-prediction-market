@@ -76,7 +76,7 @@ High-volume prediction market platforms with significant trading activity. These
 
 | Platform | Chain | Mechanism | Outcome Types | Status | Website |
 |----------|-------|-----------|---------------|--------|---------|
-| **Polymarket** | Polygon | CLOB | Binary, Categorical | 🟢 Live | [polymarket.com](https://polymarket.com) |
+| **Polymarket** | Polygon | CLOB | Binary, Categorical | 🟢 Live | [polymarket.com](https://polymarket.com?via=gaurav-agrawal) |
 | **Kalshi** | Off-chain | CLOB | Binary, Categorical | 🟢 Live | [kalshi.com](https://kalshi.com) |
 | **Opinion** | BNB Smart Chain | CLOB | Binary, Categorical | 🟢 Live | [app.opinion.trade](https://app.opinion.trade?code=iJ7MaD) |
 | **Limitless** | Base | CLOB | Binary, Categorical | 🟢 Live | [limitless.exchange](https://limitless.exchange/?r=T8W3GLZEVP) |
