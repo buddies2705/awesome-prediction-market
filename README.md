@@ -83,9 +83,8 @@ High-volume prediction market platforms with significant trading activity. These
 | **Overtime** | Base, Arbitrum, Optimism | Sportsbook | Binary, Categorical, Scalar | 🟢 Live | [overtimemarkets.xyz](https://www.overtimemarkets.xyz/markets?referrerId=free) |
 | **DGbet** | Optimism, Arbitrum | CLOB, Sportsbook | Sportsbook | 🟢 Live | [dgbet.fun](https://sportsbook.dgbet.fun?invite=oVPIO1) |
 | **Myriad Market** | BNB Smart Chain, Abstract | AMM | Binary, Categorical | 🟢 Live | [myriad.markets](https://myriad.markets/markets) |
-| **Footballfun** | Base | AMM | Scalar | 🟢 Live | [football.fun](https://football.fun) |
-| **XO Market** | XO Chain | AMM | Binary, Categorical | 🟢 Live | [xo.market](https://xo.market/) |
-| **Fliq** | Aptos | CLOB | Binary | 🟢 Live | [fliq.io](https://fliq.io) |
+| **Footballfun** | Base | AMM | Scalar | 🟢 Live | [football.fun](https://pro.sport.fun/login/?referral_code=UH8B5NUDAQW) |
+| **XO Market** | XO Chain | AMM | Binary, Categorical | 🟢 Live | [xo.market](https://xo.market/) - Referral: `XO-XOUSER23883-AYL2` |
 
 ---
 
@@ -97,9 +96,7 @@ Growing prediction market platforms with active development. These emerging fore
 |----------|-------|-----------|---------------|--------|---------|
 | **BRKT** | Base | AMM | Binary, Categorical | 🟢 Live | [brkt.gg](https://www.brkt.gg/) - Referral: `2C82E13RM7Q` |
 | **Hilomarket** | Ethereum | AMM | Binary | 🟢 Live | [hilomarket.com](https://hilomarket.com/?afc=8e1d562d-52bc-47ba-bda5-f9fe083dd502) |
-| **Alkimiya** | Base | AMM, Bonding Curve | Binary | 🟢 Live | [alkimiya.com](https://alkimiya.com) |
 | **Trendle** | TBD | AMM | Binary, Scalar | 🟡 Waitlist | [trendle.fi](https://trendle.fi/) |
-| **Actions** | Solana | N/A | Binary | 🔴 Inactive | [actions.fun](https://actions.fun/) |
 | **Agent Ted** | Solana | Sportsbook | Sportsbook | 🟡 Waitlist | [tedtech.ai](https://tedtech.ai/) |
 
 ---
