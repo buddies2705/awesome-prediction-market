@@ -208,6 +208,7 @@ AI-powered prediction market tools and agents. These artificial intelligence pla
 |----------|-------|------|--------|---------|
 | **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.xyz](https://forcazt.xyz/) |
 | **Wavefi** | BNB Smart Chain | AI Agent | 🟢 Live | [wavefi.ai](https://wavefi.ai) |
+| **MoltGuard** | Base | AI Agent, Market Integrity | 🟢 Live | [moltrust.ch](https://moltrust.ch) |
 | **Veloriai** | TBD | AI Agent | 🔴 Inactive | [veloriai.com](https://veloriai.com) |
 
 ---
@@ -236,6 +237,7 @@ Protocols and infrastructure tools for prediction markets. These are the underly
 | **ZCombinator** | TBD | Protocol/Infra, Futarchy | 🟡 Waitlist | [zcombinator.io](https://zcombinator.io) |
 | **Infinite** | EVM | Data Analysis, Oracle | 🟢 Live | [infinite.market](https://infinite.market) |
 | **Uma Rocks** | Polygon | DeFi | 🟢 Live | [umarocks.com](https://umarocks.com) |
+| **MolTrust** | Base | Protocol/Infra, Trust | 🟢 Live | [api.moltrust.ch](https://api.moltrust.ch/docs) |
 
 ---
 
