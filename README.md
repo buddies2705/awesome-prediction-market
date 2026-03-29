@@ -211,6 +211,7 @@ AI-powered prediction market tools and agents. These artificial intelligence pla
 | **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.xyz](https://forcazt.xyz/) |
 | **Wavefi** | BNB Smart Chain | AI Agent | 🟢 Live | [wavefi.ai](https://wavefi.ai) |
 | **MoltGuard** | Base | AI Agent, Market Integrity | 🟢 Live | [moltrust.ch](https://moltrust.ch) |
+| **ProfitPlay Agent Arena** | Multichain | AI Agent, Prediction Arena | 🟢 Live | [profitplay-starter](https://github.com/jarvismaximum-hue/profitplay-starter) |
 | **Veloriai** | TBD | AI Agent | 🔴 Inactive | [veloriai.com](https://veloriai.com) |
 
 ---
