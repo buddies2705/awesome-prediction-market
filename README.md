@@ -212,6 +212,7 @@ AI-powered prediction market tools and agents. These artificial intelligence pla
 | **Wavefi** | BNB Smart Chain | AI Agent | 🟢 Live | [wavefi.ai](https://wavefi.ai) |
 | **MoltGuard** | Base | AI Agent, Market Integrity | 🟢 Live | [moltrust.ch](https://moltrust.ch) |
 | **Veloriai** | TBD | AI Agent | 🔴 Inactive | [veloriai.com](https://veloriai.com) |
+| **[TigerPass](https://github.com/TigerPassNet/tigerpass-skill)** | EVM | AI Agent, Trading Terminal | 🟢 Live | [tigerpass.net](https://tigerpass.net) |
 
 ---
 
