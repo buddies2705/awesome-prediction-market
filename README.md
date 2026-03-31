@@ -251,6 +251,7 @@ Research tools and platforms for prediction market analysis. These platforms pro
 |----------|-------|------|--------|---------|
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
 | **Poly Alert Hub** | Polygon | Research | 🟢 Live | [polyalerthub.com](https://polyalerthub.com) |
+| **PredScope** | Off-chain | Research, Data Analysis | 🟢 Live | [predscope.com](https://predscope.com) - Free prediction market analytics with real-time odds tracking, 80+ educational guides, and market statistics |
 
 ---
 
