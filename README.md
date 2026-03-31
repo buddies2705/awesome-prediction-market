@@ -182,6 +182,7 @@ Polymarket analytics tools and data analysis platforms for tracking prediction m
 | **Predictify** | Polygon, Solana | Bot, Data Analysis | 🟢 Live | [predictify.0xo.in](https://predictify.0xo.in/) |
 | **Robin Markets** | - | Data Analysis | 🟢 Live | [robin.markets](https://robin.markets) |
 | **Predictshark** | - | Data Analysis | 🟢 Live | [predictshark.io](https://predictshark.io) |
+| **PredScope** | Off-chain | Data Analysis | 🟢 Live | [predscope.com](https://predscope.com) |
 
 ---
 
