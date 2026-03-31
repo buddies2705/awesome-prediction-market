@@ -287,6 +287,7 @@ Platforms currently in development or waitlist.
 
 ### Directories & Aggregators
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
+- [**OddsShift**](https://oddsshift.com/) - Cross-platform prediction market odds aggregator comparing real-time prices between Polymarket and Kalshi, with AI-powered divergence analysis and arbitrage scanning
 
 ### Documentation & Guides
 - **Prediction Market Mechanisms**: Learn about CLOB (Central Limit Order Book), AMM (Automated Market Maker), and other trading mechanisms used in prediction markets
