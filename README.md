@@ -251,6 +251,7 @@ Research tools and platforms for prediction market analysis. These platforms pro
 |----------|-------|------|--------|---------|
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
 | **Poly Alert Hub** | Polygon | Research | 🟢 Live | [polyalerthub.com](https://polyalerthub.com) |
+| **ClearMarket** | Off-chain | Research, Data Analysis | 🟢 Live | [github.com/JDSource/clearmarket](https://github.com/JDSource/clearmarket) |
 
 ---
 
