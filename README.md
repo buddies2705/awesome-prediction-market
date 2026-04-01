@@ -116,6 +116,7 @@ Polymarket alert bots, Telegram bots, and automated tools for prediction market 
 | **Polymarket Insider Bot** | Telegram | Bot | 🟢 Live | [@polymarketinsiderbot](https://t.me/polymarketinsiderbot) |
 | **Polyx Gold Bot** | Telegram | Bot | 🟢 Live | [@Polyx_gold_bot](https://t.me/Polyx_gold_bot) |
 | **Polyscalping** | Web | Bot, Alerts | 🟢 Live | [polyscalping.org](https://polyscalping.org) |
+| **PolyMind** | Web | Alert Bot, AI Analysis | 🟢 Live | [polyminds.netlify.app](https://polyminds.netlify.app/) |
 
 ---
 
