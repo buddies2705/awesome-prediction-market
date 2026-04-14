@@ -173,6 +173,7 @@ Polymarket analytics tools and data analysis platforms for tracking prediction m
 | **Polynoob** | Polygon | Data Analysis | 🟢 Live | [polynoob.com](https://polynoob.com/) |
 | **Polyswipe** | - | Data Analysis | 🟢 Live | [polyswipe.io](https://www.polyswipe.io/) |
 | **Polymarket Analytics** | - | Data Analysis | 🟢 Live | [polymarketanalytics.com](https://polymarketanalytics.com) |
+| **OddsShift** | Off-chain | Cross-Platform Comparison, AI Analysis, Arbitrage | 🟢 Live | [oddsshift.com](https://oddsshift.com) |
 | **Polymarket Trade** | Off-chain | Data Analysis | 🟢 Live | [polymarkettrade.com](https://polymarkettrade.com) |
 | **Polyinsider** | Off-chain | Data Analysis | 🟢 Live | [polyinsider.io](https://polyinsider.io/) |
 | **Forcazt** | EVM | AI Agent, Data Analysis | 🟢 Live | [forcazt.xyz](https://forcazt.xyz/) |
