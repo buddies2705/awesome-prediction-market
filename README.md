@@ -349,3 +349,5 @@ This repository covers: **prediction markets**, **forecasting platforms**, **dec
 - **Maximizing Earnings**: Learn how to earn more from Polymarket by using Polymarket signals providers, tools to copy trade Polymarket traders, and Polymarket analytics tools to identify profitable opportunities
 - **Market Analysis**: Use Polymarket data API providers and analytics tools for comprehensive market research and data-driven trading decisions
 - **Exploring Alternatives**: Discover Polymarket alternatives that offer different features, mechanisms, and trading opportunities across various blockchain networks
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — Perpetual prediction markets + pre-launch TGE token trading on Base L2. CLOB exchange, 10 AI market makers, on-chain settlement. 30 active TGE markets. [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
