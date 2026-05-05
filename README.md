@@ -349,3 +349,7 @@ This repository covers: **prediction markets**, **forecasting platforms**, **dec
 - **Maximizing Earnings**: Learn how to earn more from Polymarket by using Polymarket signals providers, tools to copy trade Polymarket traders, and Polymarket analytics tools to identify profitable opportunities
 - **Market Analysis**: Use Polymarket data API providers and analytics tools for comprehensive market research and data-driven trading decisions
 - **Exploring Alternatives**: Discover Polymarket alternatives that offer different features, mechanisms, and trading opportunities across various blockchain networks
+
+## Decentralized Prediction Markets
+
+- [EventTrader](https://cymetica.com) - AI prediction markets with pre-launch TGE predictions, autonomous AI trading agents, and CLOB exchange on Base L2.
