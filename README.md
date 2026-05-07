@@ -65,7 +65,7 @@ Prediction markets are platforms where users can trade shares in the outcome of 
     - [Community](#community)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
-  - [🔍 Keywords \& Topics](#-keywords--topics)
+  - [🔍 Related Searches](#-related-searches)
   - [📈 Popular Use Cases](#-popular-use-cases)
 
 ---
@@ -332,9 +332,11 @@ Made with ❤️ for the prediction markets community
 
 ---
 
-## 🔍 Keywords & Topics
+## 🔍 Related Searches
 
-This repository covers: **prediction markets**, **forecasting platforms**, **decentralized prediction markets**, **betting markets**, **probability markets**, **information markets**, **prediction market platforms**, **blockchain prediction markets**, **crypto prediction markets**, **sports prediction markets**, **political prediction markets**, **prediction market trading**, **prediction market analytics**, **prediction market bots**, **prediction market tools**, **CLOB prediction markets**, **AMM prediction markets**, **Polygon prediction markets**, **Base prediction markets**, **Solana prediction markets**, **Ethereum prediction markets**, **Polymarket**, **Kalshi**, **prediction market aggregators**, **prediction market terminals**, **prediction market APIs**, **Polymarket analytics tools**, **Polymarket alert bots**, **Polymarket portfolio trackers**, **Polymarket signals providers**, **Polymarket trading terminals**, **prediction trading terminals**, **tools to copy trade Polymarket traders**, **Polymarket data API providers**, **Polymarket alternatives**, **sport prediction tools**, **how to earn more from Polymarket**, and more.
+If you arrived here looking for any of the following, you're in the right place:
+
+`prediction markets` · `Polymarket` · `Kalshi` · `Polymarket alternatives` · `Polymarket trading terminals` · `Polymarket analytics tools` · `Polymarket alert bots` · `Polymarket signals providers` · `tools to copy trade Polymarket traders` · `sports prediction tools` · `decentralized prediction markets` · `crypto prediction markets` · `prediction market APIs`
 
 ---
 
