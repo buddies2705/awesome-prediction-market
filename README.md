@@ -285,6 +285,9 @@ Platforms currently in development or waitlist.
 
 ## 📚 Resources
 
+### Related Awesome Lists
+- [**Awesome Crypto MCPs**](https://github.com/buddies2705/awesome-crypto-mcp) — Curated list of Crypto, Blockchain & Web3 Model Context Protocol (MCP) servers for AI agents. Includes the [Bitquery MCP](https://mcp.bitquery.io/) which exposes the same Polymarket / Polygon trading data referenced above to Claude, Cursor, ChatGPT and any MCP-compatible client.
+
 ### Directories & Aggregators
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
 
