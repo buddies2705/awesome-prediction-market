@@ -292,6 +292,7 @@ Platforms currently in development or waitlist.
 - [**Awesome Perp DEXs**](https://github.com/buddies2705/awesome-perp-dex) — Sister list covering 200+ perpetual DEXs (Hyperliquid, dYdX, GMX, Lighter, Aster, etc.) plus trading terminals, analytics, copy-trading, and bots. Many prediction-market traders also trade perps for hedging and directional plays.
 - [**Awesome Memecoin Trading**](https://github.com/buddies2705/awesome-memecoin-trading) — Sister list of 295+ memecoin trading tools across Pump.fun, LetsBonk, Bags, and other launchpads. Useful overlap with prediction-market traders who also play Solana memes.
 - [**Awesome Crypto Tax**](https://github.com/buddies2705/awesome-crypto-tax) — Sister list of 150+ crypto tax tools. Polymarket / Kalshi PnL classification (gambling income vs. trading) is jurisdiction-specific — these tools handle the messy edge cases.
+- [**Awesome Blockchain & Crypto APIs**](https://github.com/buddies2705/awesome-blockchain-crypto-api) — Sister list of 315+ blockchain APIs and developer infrastructure. Bitquery's Polymarket API is featured — it's the same data layer behind many prediction-market terminals.
 
 ### Directories & Aggregators
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
