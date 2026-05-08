@@ -288,6 +288,7 @@ Platforms currently in development or waitlist.
 ### Related Awesome Lists
 - [**Awesome Crypto MCPs**](https://github.com/buddies2705/awesome-crypto-mcp) — Curated list of Crypto, Blockchain & Web3 Model Context Protocol (MCP) servers for AI agents. Includes the [Bitquery MCP](https://mcp.bitquery.io/) which exposes the same Polymarket / Polygon trading data referenced above to Claude, Cursor, ChatGPT and any MCP-compatible client.
 - [**Awesome Perp DEXs**](https://github.com/buddies2705/awesome-perp-dex) — Sister list covering 200+ perpetual DEXs (Hyperliquid, dYdX, GMX, Lighter, Aster, etc.) plus trading terminals, analytics, copy-trading, and bots. Many prediction-market traders also trade perps for hedging and directional plays.
+- [**Awesome Memecoin Trading**](https://github.com/buddies2705/awesome-memecoin-trading) — Sister list of 295+ memecoin trading tools across Pump.fun, LetsBonk, Bags, and other launchpads. Useful overlap with prediction-market traders who also play Solana memes.
 
 ### Directories & Aggregators
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
