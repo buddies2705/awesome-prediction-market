@@ -174,6 +174,7 @@ Polymarket analytics tools and data analysis platforms for tracking prediction m
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
 | **Polynoob** | Polygon | Data Analysis | 🟢 Live | [polynoob.com](https://polynoob.com/) |
 | **Polyswipe** | - | Data Analysis | 🟢 Live | [polyswipe.io](https://www.polyswipe.io/) |
+| **Polyguana** | Polygon | Analytics, Leaderboard | 🟢 Live | [polyguana.com](https://polyguana.com) |
 | **Polymarket Analytics** | - | Data Analysis | 🟢 Live | [polymarketanalytics.com](https://polymarketanalytics.com) |
 | **Polymarket Trade** | Off-chain | Data Analysis | 🟢 Live | [polymarkettrade.com](https://polymarkettrade.com) |
 | **Polyinsider** | Off-chain | Data Analysis | 🟢 Live | [polyinsider.io](https://polyinsider.io/) |
@@ -295,6 +296,7 @@ Platforms currently in development or waitlist.
 - [**Awesome Blockchain & Crypto APIs**](https://github.com/buddies2705/awesome-blockchain-crypto-api) — Sister list of 315+ blockchain APIs and developer infrastructure. Bitquery's Polymarket API is featured — it's the same data layer behind many prediction-market terminals.
 
 ### Directories & Aggregators
+- [**pm.wiki**](https://pm.wiki/) - Independent prediction market directory covering 350+ tools and platforms with reviews, comparisons, and analytics
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
 
 ### Documentation & Guides
