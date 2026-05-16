@@ -101,6 +101,7 @@ Growing prediction market platforms with active development. These emerging fore
 | **Agent Ted** | Solana | Sportsbook | Sportsbook | 🟡 Waitlist | [tedtech.ai](https://tedtech.ai/) |
 
 ---
+| **SezgiX** | Custodial (Multi-chain USDC) | CLOB + Round-based | Binary, Categorical, Crypto Rounds | 🟢 Live | [sezgix.com](https://sezgix.com) |
 
 ## 🤖 Polymarket Alert Bots & Automation
 
