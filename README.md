@@ -284,6 +284,7 @@ Platforms currently in development or waitlist.
 | **Astron** | TBD | AI Agent | 🟡 Upcoming | [astron.markets](https://www.astron.markets/) |
 
 ---
+| **antflow** | Autonomous Trading Bot | 🟡 Beta | [antflow.live](https://antflow.live) |
 
 ## 📚 Resources
 
