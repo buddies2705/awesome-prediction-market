@@ -251,6 +251,7 @@ Research tools and platforms for prediction market analysis. These platforms pro
 
 | Platform | Chain | Type | Status | Website |
 |----------|-------|------|--------|---------|
+| **Epistemic** | Off-chain | AI Agents, Research, Analysis | 🟢 Live | [epistemic.trading](https://epistemic.trading) |
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
 | **Poly Alert Hub** | Polygon | Research | 🟢 Live | [polyalerthub.com](https://polyalerthub.com) |
 
