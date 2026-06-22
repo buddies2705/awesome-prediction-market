@@ -237,6 +237,7 @@ Protocols and infrastructure tools for prediction markets. These are the underly
 | Platform | Chain | Type | Status | Website |
 |----------|-------|------|--------|---------|
 | **PolyRouter** | Off-chain | API Provider | 🟢 Live | [polyrouter.io](https://www.polyrouter.io/) |
+| **Probalytics** | Off-chain | Data Infrastructure | 🟢 Live | [probalytics.io](https://probalytics.io) |
 | **functionSPACE** | Multichains | Protocol/Infra | 🟡 Waitlist | [functionspace.io](https://functionspace.io) |
 | **ZCombinator** | TBD | Protocol/Infra, Futarchy | 🟡 Waitlist | [zcombinator.io](https://zcombinator.io) |
 | **Infinite** | EVM | Data Analysis, Oracle | 🟢 Live | [infinite.market](https://infinite.market) |
