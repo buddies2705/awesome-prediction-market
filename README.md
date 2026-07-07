@@ -253,6 +253,7 @@ Research tools and platforms for prediction market analysis. These platforms pro
 |----------|-------|------|--------|---------|
 | **Polyquant** | Off-chain | Bot, Research, Data Analysis | 🟢 Live | [polyquant.ai](https://polyquant.ai) |
 | **Poly Alert Hub** | Polygon | Research | 🟢 Live | [polyalerthub.com](https://polyalerthub.com) |
+| **PredictionMarketsPicks** | Off-chain (Kalshi) + Polygon (Polymarket) | Quant Tools, Research, MCP | 🟢 Live | [predictionmarketspicks.com](https://predictionmarketspicks.com/kalshi-analysis) |
 
 ---
 
