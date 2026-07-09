@@ -96,6 +96,7 @@ Growing prediction market platforms with active development. These emerging fore
 | Platform | Chain | Mechanism | Outcome Types | Status | Website |
 |----------|-------|-----------|---------------|--------|---------|
 | **BRKT** | Base | AMM | Binary, Categorical | 🟢 Live | [brkt.gg](https://www.brkt.gg/) - Referral: `2C82E13RM7Q` |
+| **Dexly** | Hyperliquid L1 | CLOB | Binary | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 | **Hilomarket** | Ethereum | AMM | Binary | 🟢 Live | [hilomarket.com](https://hilomarket.com/?afc=8e1d562d-52bc-47ba-bda5-f9fe083dd502) |
 | **Trendle** | TBD | AMM | Binary, Scalar | 🟡 Waitlist | [trendle.fi](https://trendle.fi/) |
 | **Agent Ted** | Solana | Sportsbook | Sportsbook | 🟡 Waitlist | [tedtech.ai](https://tedtech.ai/) |
