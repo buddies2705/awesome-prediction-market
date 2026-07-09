@@ -15,6 +15,7 @@
 
 - **[Bitquery Polymarket API](https://docs.bitquery.io/docs/examples/polymarket-api/?utm_source=github&utm_campaign=awesome-prediction-markets&utm_medium=referral)** — Complete GraphQL API for querying Polymarket data, including market information, trading activity, prices, oracle resolution, and smart contract events on Polygon blockchain. Perfect for building prediction market dashboards, analytics tools, and trading applications.
 - **[DEXrabbit](https://dexrabbit.bitquery.io/)** — **DexScreener alternative** with **native Polymarket support**. Live, AI-overlaid analytics for Polymarket markets alongside on-chain DEX trading data across Solana, Ethereum, BSC, Base, Tron, Polygon, Arbitrum, and Optimism. Free public dashboard powered by the Bitquery API — useful for verifying volumes, spotting whale activity, and monitoring Polymarket markets without writing a single line of code.
+- **[DepthFeed](https://depthfeed.com)** — **Order-book depth API** for **Polymarket, Kalshi, and Limitless**. Records the full historical and live bid/ask book — every price level and size, both sides, on every change — and serves it over REST + a live WebSocket in one identical JSON schema, each snapshot stamped with the underlying crypto price. Purpose-built for backtesting and slippage modeling: 90+ days of L2 history, `?interval=` downsampling, one Bearer key, no SDK. Free tier, public [docs](https://depthfeed.com/docs).
 
 ---
 
