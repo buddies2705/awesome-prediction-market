@@ -298,6 +298,7 @@ Platforms currently in development or waitlist.
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
 
 ### Documentation & Guides
+- [**Polywise**](https://polywise.tyki.app) — Free Duolingo-style learning game that teaches prediction market fundamentals: reading prices as probabilities, edge and expected value, and resolution rules. Includes a free payout/edge calculator and a 40-term plain-English glossary. Browser-based, no account required.
 - **Prediction Market Mechanisms**: Learn about CLOB (Central Limit Order Book), AMM (Automated Market Maker), and other trading mechanisms used in prediction markets
 - **How to Earn More from Polymarket**: Comprehensive guides on maximizing profits, using Polymarket analytics tools, following Polymarket signals providers, and leveraging tools to copy trade Polymarket traders
 - **Trading Strategies**: Guides on how to trade prediction markets, manage risk, and develop profitable strategies using Polymarket trading terminals and prediction trading terminals
