@@ -163,6 +163,7 @@ Polymarket analytics tools and data analysis platforms for tracking prediction m
 | ⭐ **DEXrabbit** | Polygon (Polymarket) + 8 chains | Data Analysis, Live Dashboard, AI Overviews | 🟢 Live | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **Hashdive** | Multichains | Data Analysis | 🟢 Live | [hashdive.com](https://hashdive.com) |
 | **Poly Alert Hub** | Polygon | Data Analysis | 🟢 Live | [polyalerthub.com](https://polyalerthub.com) |
+| **ATLAS Research** | Off-chain | Research, Public Track Record | 🟢 Live | [atlassignals.app](https://atlassignals.app) |
 | **Predictfolio** | Polygon | Data Analysis | 🟢 Live | [predictfolio.com](https://predictfolio.com) |
 | **Polyfactual** | Off-chain | Data Analysis | 🟢 Live | [polyfactual.com](https://polyfactual.com) |
 | **Prediedge** | - | Data Analysis | 🟢 Live | [prediedge.com](https://prediedge.com) |
