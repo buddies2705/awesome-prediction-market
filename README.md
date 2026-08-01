@@ -298,6 +298,7 @@ Platforms currently in development or waitlist.
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
 
 ### Documentation & Guides
+- [**Polymarket Academy**](https://polymarketacademy.com/) — Copy-trading guides for Polymarket: bot reviews and comparisons, security breakdowns, wallet-selection tips, and step-by-step tutorials for beginners
 - **Prediction Market Mechanisms**: Learn about CLOB (Central Limit Order Book), AMM (Automated Market Maker), and other trading mechanisms used in prediction markets
 - **How to Earn More from Polymarket**: Comprehensive guides on maximizing profits, using Polymarket analytics tools, following Polymarket signals providers, and leveraging tools to copy trade Polymarket traders
 - **Trading Strategies**: Guides on how to trade prediction markets, manage risk, and develop profitable strategies using Polymarket trading terminals and prediction trading terminals
