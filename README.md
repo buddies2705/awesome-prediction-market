@@ -295,6 +295,7 @@ Platforms currently in development or waitlist.
 - [**Awesome Blockchain & Crypto APIs**](https://github.com/buddies2705/awesome-blockchain-crypto-api) — Sister list of 315+ blockchain APIs and developer infrastructure. Bitquery's Polymarket API is featured — it's the same data layer behind many prediction-market terminals.
 
 ### Directories & Aggregators
+- [**LaunchPoly**](https://launchpoly.com) - Community-voted directory of 80+ Polymarket tools across 9 categories (bots, analytics, alerts, trackers, arbitrage, extensions)
 - [**Prediction Index**](https://predictionindex.xyz/) - Comprehensive directory of prediction markets and forecasting platforms
 
 ### Documentation & Guides
