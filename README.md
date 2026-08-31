@@ -57,6 +57,7 @@ Prediction markets are platforms where users can trade shares in the outcome of 
   - [🤖 AI Agents](#-ai-agents)
   - [🤖 Prediction Market AI Assistants](#-prediction-market-ai-assistants)
   - [🔧 Infrastructure \& Protocols](#-infrastructure--protocols)
+  - [⚡ Leverage \& Margin](#-leverage--margin)
   - [🔬 Research \& Analysis](#-research--analysis)
   - [👥 Social \& Community](#-social--community)
   - [🚀 Upcoming Platforms](#-upcoming-platforms)
@@ -242,6 +243,22 @@ Protocols and infrastructure tools for prediction markets. These are the underly
 | **Infinite** | EVM | Data Analysis, Oracle | 🟢 Live | [infinite.market](https://infinite.market) |
 | **Uma Rocks** | Polygon | DeFi | 🟢 Live | [umarocks.com](https://umarocks.com) |
 | **MolTrust** | Base | Protocol/Infra, Trust | 🟢 Live | [api.moltrust.ch](https://api.moltrust.ch/docs) |
+
+---
+
+## ⚡ Leverage & Margin
+
+Protocols that let traders take leveraged or margined exposure to prediction market outcomes. Polymarket, Kalshi and most major venues list fully collateralized 1x contracts, so leverage on event outcomes comes from a separate layer built on top — either a margin/lending layer that lends against a position you already hold, or a derivatives venue that prices the outcome itself. This section covers both, along with the infrastructure providers that let other apps embed leverage rather than run their own.
+
+| Platform | Chain | Type | Status | Website |
+|----------|-------|------|--------|---------|
+| **Dimes** | Polygon | Embedded Leverage, Credit Infra, API/SDK | 🟢 Live | [dimes.fi](https://dimes.fi) |
+| **Gondor** | Polygon | Lending, Margin Account | 🟢 Live | [gondor.fi](https://gondor.fi) |
+| **HyperOdd** | Hyperliquid | Leveraged Trading (20x) | 🟢 Live | [hyperodd.com](https://hyperodd.com) |
+| **OmenX** | Base | Leveraged Trading (5–10x) | 🟢 Live | [omenx.com](https://omenx.com) |
+| **Polyperp** | Polygon | Perps on Outcomes (10x) | 🟢 Live | [polyperp.gitbook.io](https://polyperp.gitbook.io/docs) |
+| **PredMart** | Polygon | Margin Layer (5x) | 🟢 Live | [predmart.com](https://predmart.com) |
+| **Predictu** | Solana | Leveraged Trading (10x), AI | 🟢 Live | [predictu.com](https://predictu.com) |
 
 ---
 
