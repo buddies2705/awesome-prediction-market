@@ -14,6 +14,7 @@
 **For Developers + Traders**: Access comprehensive prediction market data through APIs and live dashboards.
 
 - **[Bitquery Polymarket API](https://docs.bitquery.io/docs/examples/polymarket-api/?utm_source=github&utm_campaign=awesome-prediction-markets&utm_medium=referral)** — Complete GraphQL API for querying Polymarket data, including market information, trading activity, prices, oracle resolution, and smart contract events on Polygon blockchain. Perfect for building prediction market dashboards, analytics tools, and trading applications.
+- **[Convex Lake](https://convexlake.com)** — Unified API for prediction market and crypto derivatives data: Kalshi, Polymarket, Predict.fun, and Limitless alongside Deribit and Binance options, batch and real-time trades, order books, and volatility surface. Free academic-research tier on request.
 - **[DEXrabbit](https://dexrabbit.bitquery.io/)** — **DexScreener alternative** with **native Polymarket support**. Live, AI-overlaid analytics for Polymarket markets alongside on-chain DEX trading data across Solana, Ethereum, BSC, Base, Tron, Polygon, Arbitrum, and Optimism. Free public dashboard powered by the Bitquery API — useful for verifying volumes, spotting whale activity, and monitoring Polymarket markets without writing a single line of code.
 
 ---
