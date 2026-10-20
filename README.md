@@ -150,6 +150,7 @@ Polymarket trading terminals and prediction trading terminals with advanced inte
 | **Predict Fun** | - | Trading Terminal | 🟢 Live | [predict.fun](https://predict.fun) |
 | **Bravado Trade** | - | Trading Terminal | 🟢 Live | [bravadotrade.com](https://bravadotrade.com) |
 | **Kash Bot** | - | Trading Terminal, Bot | 🟢 Live | [kash.bot](https://kash.bot) |
+| **Melbo** | Polygon | Trading Terminal | 🟢 Live | [melbo.io](https://melbo.io) |
 | **Pizzint** | - | Analytics | 🟢 Live | [pizzint.watch](https://pizzint.watch) |
 
 ---
